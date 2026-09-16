@@ -1,0 +1,5 @@
+Static visualizations are useful for presenting information in a simple and consistent format, while interactive visualizations allow users to explore the data more deeply through features such as hovering, zooming, and filtering. Static visualizations can be effective for reports or presentations, while interactive visualizations are useful when users need to investigate different aspects of the data.
+
+Dashboards provide an efficient way to explore data and monitor important metrics in one place. Interactive controls allow users to filter or change what they are viewing, making dashboards useful for exploring data and identifying trends as information changes.
+
+Interactive tools such as Plotly can improve data communication in professional settings by allowing users to explore the information behind a visualization instead of only viewing a fixed chart. Features such as hover information, filtering, and zooming can make complex results easier to understand and help stakeholders investigate the information that is most relevant to them.
